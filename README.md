@@ -47,7 +47,7 @@ Calf Extension	10	240
 I then called the program with
 
 ```sh
-awk -f workout_stats test-data/2025-04-24-leg-workout.txt
+awk -f workout_stats test-data/2025-04-24-leg-workout.tsv
 ```
 
 This produced the following output
