@@ -1,0 +1,37 @@
+Overall Stats:
+Total Sets:   23
+Total Reps:  410
+Total Weight: 68,500
+
+Individual Exercise Stats:
+
+Exercise: Leg Extension
+Sets:    4
+Reps:   80
+Weight: 9,700
+
+Exercise: Reverse Hip Abduction
+Sets:    4
+Reps:   80
+Weight: 16,700
+
+Exercise: Leg Curl
+Sets:    4
+Reps:   80
+Weight: 11,100
+
+Exercise: Calf Extension
+Sets:    4
+Reps:   40
+Weight: 9,000
+
+Exercise: Hack Squat
+Sets:    3
+Reps:   50
+Weight: 2,000
+
+Exercise: Hip Abduction
+Sets:    4
+Reps:   80
+Weight: 20,000
+
